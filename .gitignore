@@ -1,0 +1,4 @@
+.keystore
+*.swp
+*.swo
+.DS_Store
